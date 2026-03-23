@@ -1,7 +1,7 @@
 
     ['rentalpapers'] = {
         label = "Rental Papers",
-        weight = 0,
+        weight = 10,
         stack = false,
         close = false,
         description = "Rental Papers",
