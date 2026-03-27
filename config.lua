@@ -27,6 +27,10 @@ config.locations = {
 
         -----------------------------------------------------
         vehicles = {
+            ['imperial']    = {
+                price = 180, 
+                image = false,
+            },
             ['08char']    = {
                 price = 250, 
                 image = false,

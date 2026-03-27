@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Solos#7777'
-description 'solos-rentals'
+description 'solos-rentals edited by CoreyJB247'
 version '1.0.0'
 
 
