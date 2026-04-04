@@ -1,3 +1,5 @@
+# Vehicle Renting system for QBox
+
 
     ['rentalpapers'] = {
         label = "Rental Papers",
